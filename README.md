@@ -1,8 +1,4 @@
-# Hi there 👋
-
-My name is Vasco.
-
-## About me
+# Hi there 👋, I'm Vasco
 
 I've finished my :mortar_board: Masters Degree in Business Management :moneybag: :chart_with_upwards_trend: :satisfied: :chart_with_downwards_trend: :joy: :fearful: :money_with_wings: :scream: and now I’m currently learning about programming :computer:.
 
