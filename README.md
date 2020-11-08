@@ -4,11 +4,9 @@ I've finished my :mortar_board: Masters Degree in Business Management :moneybag:
 
 The languages I've been learning so far are:
 
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="100">
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/rust/rust.png" height="100">
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/clojure/clojure.png" height="100">
-- <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/vba/vba.png" height="100">
-
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" height="50">
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg" height="50">
 
 ### Overall Stats
 
