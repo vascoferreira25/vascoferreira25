@@ -1,12 +1,6 @@
 # Hi there 👋, I'm Vasco
 
-I've finished my :mortar_board: Masters Degree in Business Management :moneybag: :chart_with_upwards_trend: :satisfied: :chart_with_downwards_trend: :joy: :fearful: :money_with_wings: :scream: and now I’m currently learning about programming :computer:.
-
-The languages I've been learning so far are:
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clojure/clojure-original.svg" height="50">
+I've finished my Masters Degree in Business Management and work as a Software Engineer with Java.
 
 ## Overall Stats
 
